@@ -95,6 +95,6 @@ body {
     transform: rotate(0);
   }
   to {
-    transform: rotate(350deg);
+    transform: rotate(360deg);
   }
 }
